@@ -1,3 +1,3 @@
-x = hello
-y = world
+x = "hello "
+y = "world"
 print(x+y)
